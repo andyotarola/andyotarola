@@ -9,6 +9,6 @@ Me encanta crear experiencias de usuario impresionantes. Me encanta trabajar en 
 </p>
 
 <p>
-Estoy siempre buscando aprender nuevas tecnologías y tendencias del sector para mantenerme actualizado, y así poder crear sitios web con lo mejor del sector tecnólogico.
+Estoy siempre buscando aprender nuevas tecnologías y tendencias del sector para mantenerme actualizado, y así poder crear sitios web con lo mejor del sector tecnológico.
 </p>
 
